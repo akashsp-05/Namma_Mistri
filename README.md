@@ -7,7 +7,7 @@ The app helps contractors and users manage projects, workers, expenses, attendan
 
 Additionally, the application provides multi-language support (English & Kannada) for better accessibility and regional usability.
 
-🛠️ Technologies Used
+Technologies Used
 Frontend
 Kotlin
 Jetpack Compose
