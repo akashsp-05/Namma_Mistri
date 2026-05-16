@@ -1,5 +1,5 @@
-Namma Mistri 🏗️
-📱 Project Overview
+Namma Mistri 
+Project Overview
 
 Namma Mistri is an Android-based Construction Management Application developed using Kotlin and Jetpack Compose. The application is designed to simplify and digitize construction management activities by replacing traditional manual record keeping with an efficient mobile solution.
 
@@ -18,8 +18,8 @@ DAO (Data Access Object)
 Kotlin Coroutines
 Development Tool
 Android Studio
-✨ Features
-📁 Project Management
+Features
+Project Management
 Add new project
 Edit project details
 Delete project
@@ -27,16 +27,16 @@ Open project
 Search projects
 Add estimated project days
 Track completed days
-👷 Worker Management
+Worker Management
 Add worker details
 Store worker wages
 Store advance amount
 Calculate labour cost
-💰 Expense Management
+Expense Management
 Add project expenses
 Track total expenses
 Calculate final project cost
-🧱 Material Calculator
+Material Calculator
 
 The application includes a material calculator for estimating construction materials.
 
@@ -51,23 +51,23 @@ Brick calculation
 
 This helps users estimate material requirements and construction costs efficiently.
 
-📸 Photo Management
+Photo Management
 Add project photos
 Store construction site images
 Manage project-related images
-📅 Attendance Management
+Attendance Management
 Record worker attendance
 Track working days
 Monitor worker productivity
-📊 Progress Tracking
+Progress Tracking
 Track completed project days
 Progress bar visualization
 Remaining days calculation
-🌐 Multi-language Support
+Multi-language Support
 English language support
 Kannada language support
 Manual language switching
-📋 Summary Dashboard
+Summary Dashboard
 
 The dashboard provides:
 
@@ -77,7 +77,7 @@ Material cost
 Total expenses
 Final project cost
 Project progress summary
-🗄️ Database Tables
+Database Tables
 Project Table
 
 Stores:
@@ -114,11 +114,11 @@ Stores:
 
 Photo URI
 Project ID
-🎯 Objective
+Objective
 
 The main objective of this project is to provide a simple and efficient digital solution for construction management. The application helps users manage workers, materials, expenses, attendance, and project progress digitally, improving accuracy and reducing manual work.
 
-🚀 Advantages
+Advantages
 Easy to use
 Reduces manual errors
 Saves time
@@ -127,7 +127,7 @@ Offline functionality
 User-friendly interface
 Multi-language support
 
-🏆 Conclusion
+Conclusion
 
 Namma Mistri provides a complete digital solution for construction management by combining project management, worker tracking, expense calculation, material estimation, attendance management, and progress monitoring into a single mobile application.
 
